@@ -136,6 +136,7 @@ h1 {
   font-size: 18px;
   line-height: 60px;
   cursor: pointer;
+  background-color: white;
 }
 .img__healthcare__wrapper {
   max-width: 650px;
@@ -185,6 +186,7 @@ h1 {
   border-radius: 55px;
   padding: 5px 51px;
   cursor: pointer;
+  background-color: white;
 }
 .img__download {
   max-width: 665px;
