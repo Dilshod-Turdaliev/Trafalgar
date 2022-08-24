@@ -21,13 +21,13 @@ a {
   display: flex;
   align-items: center;
   justify-content: center;
-  padding-top: 140px;
-  margin-bottom: 84px;
+  /* padding-top: 140px; */
 }
 .header__container {
   display: flex;
   align-items: center;
   justify-content: space-between;
+  
 }
 .nav__ul {
   display: flex;
